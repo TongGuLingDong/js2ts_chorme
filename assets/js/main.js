@@ -131,8 +131,7 @@
   };
 
   document.querySelector("header svg").onclick = () => {
-    // location.href = "https://github.com/job-tools/chrome-js2ts";
-    window.open("https://github.com/job-tools/chrome-js2ts");
+    window.open("https://github.com/TongGuLingDong/js2ts_chorme");
   };
   // const content = eval(`(${inputEle.value})`);
   // onJs2ts(inputEditor.getValue());
